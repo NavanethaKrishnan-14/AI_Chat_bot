@@ -60,7 +60,7 @@ AI_Chat_bot/
 │
 ├── .gitignore
 ├── README.md
-└── package.json
+
 ```
 
 ---
